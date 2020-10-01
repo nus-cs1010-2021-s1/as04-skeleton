@@ -9,7 +9,7 @@ so well, and we need a different kind of sorting algorithm.
 
 In this question, you are asked to implement the selection
 sort algorithm.  The idea behind selection sort is simple,
-and we will illustrate with the sequence `15 23 16 4 42 8`.  
+and we will illustrate with the sequence `15 23 16 4 42 8`.
 To sort an array with n values in increasing order,
 selection sort first finds the maximum value, then moves
 it into its proper place, that is, the last position.
